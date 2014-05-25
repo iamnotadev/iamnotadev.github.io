@@ -1,5 +1,4 @@
 $ dig iamnotadev.com +nostats +nocomments +nocmd
-# ;iamnotadev.com.                     IN      A
-# iamnotadev.com.              3592    IN      CNAME   iamnotadev.github.io.
-# iamnotadev.github.io.           43192   IN      CNAME   github.map.fastly.net.
-# github.map.fastly.net.        22      IN      A       199.27.76.133
+;iamnotadev.com
+iamnotadev.com.   73  IN  A 192.30.252.153
+iamnotadev.com.   73  IN  A 192.30.252.154
