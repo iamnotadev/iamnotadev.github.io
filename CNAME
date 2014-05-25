@@ -1,4 +1,4 @@
 $ dig iamnotadev.com +nostats +nocomments +nocmd
 ;iamnotadev.com
-iamnotadev.com.   73  IN  A 192.30.252.153
-iamnotadev.com.   73  IN  A 192.30.252.154
+iamnotadev.com.   73  IN  A dns1.namecheaphosting.com
+iamnotadev.com.   73  IN  A dns2.namecheaphosting.com
